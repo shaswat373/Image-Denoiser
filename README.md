@@ -8,4 +8,4 @@ This project implements an image denoising pipeline using a convolutional autoen
 - Produces side-by-side visualization of noisy and denoised output
 - 
 ## Dataset
-- **CIFAR-10** (
+- **CIFAR-10** 
